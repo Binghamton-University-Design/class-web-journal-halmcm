@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background-color: yellow;
+    background-color: var(--background-color);
     text-align: left;
     margin: 0;
     color: #111;
