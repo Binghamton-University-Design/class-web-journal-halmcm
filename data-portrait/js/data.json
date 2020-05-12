@@ -1,0 +1,231 @@
+{
+"key" :
+  {
+  "I sleep with my phone at arms length from me." : {
+    "x" : 0,
+    "y" : 0,
+    "Always" : "q1_always.png",
+    "Often" : "q1_often.png",
+    "Sometimes" : "q1_sometimes.png",
+    "Never" : "q1_never.png",
+    "is_text" : false
+  },
+    "I check my phone..." : {
+      "x" : 0,
+      "y" : 0,
+      "within 5-10 minutes of waking up" : "q2_5-10_min.png",
+      "within 20-30 minutes of waking up" : "q2_20-30_min.png",
+      "I wait at least an hour to go on my phone" : "q2_wait_an_hour.png",
+      "is_text" : false
+    },
+    "I go on my phone when feeling nervous or anxious." : {
+      "x" : 0,
+      "y" : 0,
+      "Always" : "q3_always-01.png",
+      "Often" : "q3_often-01.png",
+      "Sometimes": "q3_sometimes-01.png",
+      "Never" : "q3_never-01.png",
+      "is_text" : false
+      },
+      "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards." : {
+      "x" : 0,
+      "y" : 0,
+      "TRUE" : "q4_true-01.png",
+      "FALSE" : "q4_false-01.png",
+      "is_text" : false
+      },
+      "I find myself going on my phone to escape awkward social situations." :{
+      "x" : 0,
+      "y" : 0,
+      "Always" : "q5_always-01.png",
+      "Often" : "q5_often-01.png",
+      "Sometimes" : "q5_sometimes-01.png",
+      "Never" : "q5_never-01.png",
+      "is_text" : false
+      },
+      "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": {
+      "x" : 0,
+      "y" : 0,
+      "several hours" : "q6_several_hours-01.png",
+      "at least an hour" : "q6_at-least-an-hour-01.png",
+      "30-45 minutes" : "q6_30-45_min-01.png",
+      "20 minutes or less" : "q6_20-min-or-less-01.png",
+      "is_text" : false
+      },
+      "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": {
+      "x" : 0,
+      "y" : 0,
+      "Strongly Agree" : "q7_strongly-agree-01.png",
+      "Agree" : "q7_agree-01.png",
+      "Not sure" : "q7_not-sure-01.png",
+      "Disagree" : "q7_disagree-01.png",
+      "Strongly Disagree" : "q7_strongly-disagree-01.png",
+      "is_text" : false
+      }
+  },
+  "data": [
+    {
+    "I sleep with my phone at arms length from me.": "Often",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "several hours",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Sometimes",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "several hours",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Disagree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Often",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Often",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "at least an hour",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Sometimes",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Always",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Always",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "several hours",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Strongly Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Often",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "30-45 minutes",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Never",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "20 minutes or less",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Not sure"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Always",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "at least an hour",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Strongly Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Often",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "at least an hour",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Strongly Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Often",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "20 minutes or less",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Disagree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Sometimes",
+    "I check my phone...": "within 20-30 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Often",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Often",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "several hours",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Not sure"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Often",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "30-45 minutes",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Not sure"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Never",
+    "I check my phone...": "I wait at least an hour to go on my phone",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Always",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "several hours",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Strongly Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 20-30 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "FALSE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "at least an hour",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Disagree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 20-30 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "FALSE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "at least an hour",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Not sure"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Sometimes",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "at least an hour",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "20 minutes or less",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Disagree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Sometimes",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Sometimes",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "30-45 minutes",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Agree"
+  },
+  {
+    "I sleep with my phone at arms length from me.": "Always",
+    "I check my phone...": "within 5-10 minutes of waking up",
+    "I go on my phone when feeling nervous or anxious.": "Often",
+    "After completing a task or activity during which I could not use my phone (exercising, driving, work) I find myself checking it immediately afterwards.": "TRUE",
+    "I find myself going on my phone to escape awkward social situations.": "Sometimes",
+    "Before I had a cellphone/smartphone, I could spend ________ reading a book before getting bored or distracted.": "20 minutes or less",
+    "I believe that having a smartphone has has a negative impact on my day to day focus and concentration": "Not sure"
+  }
+
+  ]
+}
